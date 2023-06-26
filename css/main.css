@@ -5790,4 +5790,36 @@ label {
   .footer-text i {
     color: #ffba00; }
 
-/*# sourceMappingURL=main.css.map */
+.logo-umkm {
+  padding: 0 8px; }
+  .logo-umkm span {
+    display: block;
+    position: relative;
+    width: 20px;
+    height: 2.5px;
+    border-radius: 3px; }
+    .logo-umkm span::before, .logo-umkm span::after {
+      content: '';
+      position: absolute;
+      width: 12px;
+      height: 2.5px;
+      border-radius: inherit; }
+    .logo-umkm span::before {
+      top: -5px;
+      right: 2px; }
+    .logo-umkm span::after {
+      bottom: -5px;
+      left: 2px; }
+
+.logo-umkm-text {
+  margin-left: 5px;
+  font-size: 21px;
+  font-weight: 500;
+  letter-spacing: -1px;
+  color: black;
+  white-space: nowrap; }
+
+  .logo-umkm-text span {
+    display: inline-block;
+    color: #FE9429;
+    font-weight: 600; }

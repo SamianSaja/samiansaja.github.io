@@ -1,0 +1,12 @@
+admin
+- fitur pembuatan laporan
+- perhitungan keluar masuk
+- data semua toko yang daftar ke website juga dapat memanipulasinya(crud)
+- data pembeli yang sudah login
+
+penjual
+- deskripsi toko (profil)
+- produk toko
+- analisis penjualan (barang terjual)
+- data transaksi keluar masuk barang
+- 
